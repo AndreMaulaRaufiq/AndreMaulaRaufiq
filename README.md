@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 - 👀 I’m interested in Mobile Development, Machine Learning, also Tech
-- 🌱 I’m currently learning Mobile Development, mainly focused on Flutter. Also tried to learn Machine Learning
+- 🌱 I’m currently learning Mobile Development, mainly focused on Flutter & Kotlin. Also tried to learn Machine Learning
 - 👯 I’m looking to collaborate on Everything related to Mobile Development & Machine Learning Project
 - 📫 How to reach me: andremr107@gmail.com<br>
 
